@@ -1,0 +1,11 @@
+prefix=/Users/shubhidabral/Documents/Study-material/LLM/Krish-naik/gemini_project/calorie_tracker
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+toolexeclibdir=${libdir}
+includedir=/Users/shubhidabral/Documents/Study-material/LLM/Krish-naik/gemini_project/calorie_tracker/include
+
+Name: libffi
+Description: Library supporting Foreign Function Interfaces
+Version: 3.3
+Libs: -L${toolexeclibdir} -lffi
+Cflags: -I${includedir}

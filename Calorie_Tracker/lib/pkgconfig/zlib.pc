@@ -1,0 +1,13 @@
+prefix=/Users/shubhidabral/Documents/Study-material/LLM/Krish-naik/gemini_project/calorie_tracker
+exec_prefix=/Users/shubhidabral/Documents/Study-material/LLM/Krish-naik/gemini_project/calorie_tracker
+libdir=/Users/shubhidabral/Documents/Study-material/LLM/Krish-naik/gemini_project/calorie_tracker/lib
+sharedlibdir=/Users/shubhidabral/Documents/Study-material/LLM/Krish-naik/gemini_project/calorie_tracker/lib
+includedir=/Users/shubhidabral/Documents/Study-material/LLM/Krish-naik/gemini_project/calorie_tracker/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

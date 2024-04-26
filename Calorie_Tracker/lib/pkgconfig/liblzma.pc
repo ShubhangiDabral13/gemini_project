@@ -1,0 +1,20 @@
+#
+# Author: Lasse Collin
+#
+# This file has been put into the public domain.
+# You can do whatever you want with this file.
+#
+
+prefix=/Users/shubhidabral/Documents/Study-material/LLM/Krish-naik/gemini_project/calorie_tracker
+exec_prefix=/Users/shubhidabral/Documents/Study-material/LLM/Krish-naik/gemini_project/calorie_tracker
+libdir=/Users/shubhidabral/Documents/Study-material/LLM/Krish-naik/gemini_project/calorie_tracker/lib
+includedir=/Users/shubhidabral/Documents/Study-material/LLM/Krish-naik/gemini_project/calorie_tracker/include
+
+Name: liblzma
+Description: General purpose data compression library
+URL: https://tukaani.org/xz/
+Version: 5.4.5
+Cflags: -I${includedir}
+Cflags.private: -DLZMA_API_STATIC
+Libs: -L${libdir} -llzma
+Libs.private: -pthread -lpthread
