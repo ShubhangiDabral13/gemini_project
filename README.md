@@ -45,19 +45,11 @@ Describe configuration options.
 ## API Documentation
 Detailed API documentation.
 
-## Contributing
-### Guidelines
-Explain how to contribute.
-### Code of Conduct
-Include code of conduct.
-### Issues
-Explain how to report issues.
 
 
 ## References and Links
 - [Website](https://www.datacamp.com/tutorial/gemini-pro-api-tutorial)
 - [Documentation](https://ai.google.dev/gemini-api/docs?_gl=1*ds1c7d*_up*MQ..&gclid=Cj0KCQjwpZWzBhC0ARIsACvjWRNWAwWTVLTZBoJw0iCdVOsQb9hULzJisMjIrf30gO24aH3nbVYrbXcaAtdzEALw_wcB)
-- [Related Project](link-to-related-project)
 
 ## Contact Information
 - Email: shubhangidabral1@gmail.com
