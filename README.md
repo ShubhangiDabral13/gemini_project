@@ -3,7 +3,7 @@
 ### Basic Usage
 1. Run the Streamlit application:
     ```bash
-    streamlit run src/app.py
+    streamlit run src/calorie_tracker.py
     ```
 2. Upload a food image through the Streamlit interface to get the calorie intake and nutrient breakdown.
 
@@ -27,7 +27,7 @@ Report issues or request features through the [GitHub Issues](https://github.com
 - **Shubhangi Dabral** - [GitHub Profile](https://github.com/ShubhangiDabral13)
 
 ## References and Links
-- [Project Repository](https://github.com/ShubhangiDabral13/gemini_project)
+- [Online tutorial](https://www.datacamp.com/tutorial/gemini-pro-api-tutorial)
 - [Gemini Pro API Documentation](https://geminiproapi.com/docs)
 
 ## Contact Information
