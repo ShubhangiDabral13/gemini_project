@@ -38,13 +38,6 @@ Detailed usage instructions.
 ## Configuration
 Describe configuration options.
 
-## Screenshots
-![Screenshot 1](link-to-screenshot1)
-![Screenshot 2](link-to-screenshot2)
-
-## API Documentation
-Detailed API documentation.
-
 
 
 ## References and Links
