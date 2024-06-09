@@ -66,5 +66,5 @@ This project is licensed under the [LICENSE NAME](link-to-license).
 - [Related Project](link-to-related-project)
 
 ## Contact Information
-- Email: your-shubhangidabral1@gmail.com
-- Twitter: [@yourhandle](https://x.com/Shubhi_Dabral)
+- Email: shubhangidabral1@gmail.com
+- Twitter: [@Shubhi_Dabral](https://x.com/Shubhi_Dabral)
