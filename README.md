@@ -53,16 +53,10 @@ Include code of conduct.
 ### Issues
 Explain how to report issues.
 
-## License
-This project is licensed under the [LICENSE NAME](link-to-license).
-
-## Authors and Acknowledgments
-- **Author 1** - [GitHub Profile](link-to-profile)
-- **Author 2** - [GitHub Profile](link-to-profile)
 
 ## References and Links
-- [Project Website](link-to-website)
-- [Documentation](link-to-documentation)
+- [Website](https://www.datacamp.com/tutorial/gemini-pro-api-tutorial)
+- [Documentation](https://ai.google.dev/gemini-api/docs?_gl=1*ds1c7d*_up*MQ..&gclid=Cj0KCQjwpZWzBhC0ARIsACvjWRNWAwWTVLTZBoJw0iCdVOsQb9hULzJisMjIrf30gO24aH3nbVYrbXcaAtdzEALw_wcB)
 - [Related Project](link-to-related-project)
 
 ## Contact Information
